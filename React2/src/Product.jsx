@@ -1,6 +1,6 @@
 import "./Product.css"
 
-function Product({title, price, quantity}){
+function Product({title, price = -1, quantity}){
     return (
         <div className="Product">
             <h1>Name: {title}</h1>
