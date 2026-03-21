@@ -1,0 +1,9 @@
+.greet{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding: 10px;
+}
