@@ -15,7 +15,7 @@ function ProductList(){
             />
             <Product 
                 title="Clothes"
-                quantity={1}
+                quantity={2}
             />
         </>
     )
