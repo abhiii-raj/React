@@ -1,0 +1,5 @@
+.container {
+  display: grid;
+  place-items: center; /* centers both horizontally & vertically */
+  height: 100vh;
+}
